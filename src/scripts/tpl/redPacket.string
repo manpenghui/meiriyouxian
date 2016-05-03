@@ -1,0 +1,11 @@
+<div class="redPacketPage">
+  <header>红包</header>
+  <section>
+    <img src="/demo01/images/redPacketbg.png"/>
+    <div class="record">
+      <p class="p1"><span>-<span><span>他们已使用你发的红包</span><span>-<span></p>
+      <p  class="p2">暂无记录</p>
+      <p  class="p3">这里空空如也，积攒你爆棚的人气吧！</p>
+    </div>
+  </section>
+</div>

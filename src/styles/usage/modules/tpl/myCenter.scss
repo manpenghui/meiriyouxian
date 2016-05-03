@@ -1,0 +1,62 @@
+.myCenterPage{
+  width: 100%;
+  height: 100%;
+  .login{
+    width: 100%;
+    height:1.43rem;
+    position: relative;
+    img{
+      width: 100%;
+      height: 1.43rem;
+
+    }
+    .tapLogin{
+      position: absolute;
+      left:0;
+      top: 0.59rem;
+      width:100%;
+      height:0.25rem;
+      @include box-sizing(border-box);
+      border:1px solid #FF2741;
+      border-radius: 0.03rem;
+      opacity: 0;
+    }
+  }
+  .manage{
+    width: 100%;
+    ul{
+      width: 100%;
+      @include flexbox(flex);
+      @include flex-direction(column);
+      .marginLi{
+        margin: 0.18rem 0;
+      }
+
+      li{
+        background-color: #fff;
+        width: 100%;
+        height: 0.425rem;
+        line-height:0.425rem;
+        @include box-sizing(border-box);
+        @include border(0 0 1px 0,#F0F0F0);
+        @include flexbox(flex);
+        @include justify-content(space-between);
+        padding: 0 0.1rem;
+        .yo-ico{
+          margin-right: 0.1rem;
+          color: #FF2741;
+        }
+        b {
+          height: 0.1rem;
+          width: 0.2rem;
+          display: inline-block;
+          img{
+            height: 0.1rem;
+            width: 0.15rem;
+          }
+        }
+        }
+
+      }
+    }
+  }

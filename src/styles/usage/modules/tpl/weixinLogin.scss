@@ -1,0 +1,43 @@
+.weChatPage{
+  width: 100%;
+  height: 100%;
+  header{
+    width: 100%;
+    height: 0.44rem;
+    background-color: #000;
+    color: #fff;
+    font-size: 0.15rem;
+    font-weight: bold;
+    line-height: 0.44rem;
+    @include box-sizing(border-box);
+    padding: 0 0.13rem;
+    @include flexbox(flex);
+    >div{
+
+    }
+    .back span{
+      margin-left: 0.1rem;
+    }
+    .headerLogin{
+      @include flex(1);
+      text-align: center;
+    }
+  }
+  section{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    img{
+      display: block;
+      width:100%;
+      height:100%;
+    }
+    .login{
+      width:100%;
+      height:0.32rem;
+      position: absolute;
+      bottom: 1.625rem;
+
+    }
+  }
+}

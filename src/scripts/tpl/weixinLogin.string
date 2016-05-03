@@ -1,0 +1,11 @@
+<div class="weChatPage">
+  <header>
+    <div class="back" action-type="tap.back"><i class="yo-ico">&#xe643;</i><span>返回</span></div>
+    <div class="headerLogin">登录</div>
+  </header>
+  <section>
+      <img src="/demo01/images/weixinLogin.png"/>
+      <div class="login" ></div>
+  </section>
+
+</div>

@@ -1,0 +1,9 @@
+<div class="notLoginPage">
+  <header>红包</header>
+  <div class="content">
+    <div class="icon"><img src="/demo01/images/noLoginbg.png"/></div>
+    <div class="p1">您还没登陆，请登录后查看</div>
+    <div class="login"><div action-type="show.weixinLogin">登录</div></div>
+  </div>
+
+</div>

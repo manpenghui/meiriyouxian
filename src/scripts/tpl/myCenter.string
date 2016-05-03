@@ -1,0 +1,29 @@
+<div class="myCenterPage">
+  <div class="login">
+    <img src="/demo01/images/myCenterbg.png"/>
+    <div class="tapLogin" action-type="go.weixinLogin"></div>
+  </div>
+  <div class="manage">
+    <ul>
+      <li>
+        <i><span class="yo-ico">&#xe633;</span><span>我的订单</span></i>
+        <b><img src="/demo01/images/nav1.png"></b>
+      </li>
+      <li>
+        <i><span class="yo-ico">&#xe629;</span><span>我的优惠券</span></i>
+        <b><img src="/demo01/images/nav1.png"></b>
+      </li>
+      <li class="marginLi">
+        <i><span class="yo-ico">&#xe603;</span><span>客服与帮助</span></i>
+        <b><img src="/demo01/images/nav1.png"></b>
+      </li>
+      <li>
+        <i><span class="yo-ico">&#xe61a;</span><span>设置</span></i>
+        <b><img src="/demo01/images/nav1.png"></b>
+      </li>
+    </ul>
+
+
+
+  </div>
+</div>

@@ -1,0 +1,10 @@
+require('./lib/spa.min.js');
+require('./lib/swiper-3.3.1.min.js')
+require('./views/cart.js');
+require('./views/homePage.js');
+require('./views/redPacket.js');
+require('./views/myCenter.js');
+require('./views/index.js');
+require('./views/notLogin.js');
+require('./views/weixinLogin.js');
+require('./views/beefDetail.js');

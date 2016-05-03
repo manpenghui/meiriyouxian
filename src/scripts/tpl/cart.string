@@ -1,0 +1,29 @@
+<div class="cartPage">
+  <header>购物车</header>
+  <div class="tips">
+    <p><span class="span1">优惠</span>满<span>49</span>元包邮，还差<span>9.1</span>元，去凑单</p>
+    <p><span class="span1">包邮</span>差<span>59.1</span>元，就能使用每日优鲜<span>50</span>元优惠券，去凑单</p>
+  </div>
+  <div class="goodsOrder">
+    <div class="goods">
+        <div class="inputDiv"><input type="checkbox" /></div>
+        <div class="imgDiv"><img src="/demo01/images/product1.png"/></div>
+        <div class="detailDiv">
+          <p class="p1">拉茨维特法国猪肋排骨</p>
+          <p  class="p2">￥39.9</p>
+          <div class="num">
+            <span>-</span>
+            <input type="text" value="1" />
+            <span>+</span>
+          </div>
+        </div>
+    </div>
+
+  </div>
+
+  <div class="orderPrice">
+    <p><span>商品总价</span><span>￥39.9<span></p>
+    <p class="p2"><span>运费</span><span><span>￥8.0</p>
+    <p><span>支付价</span><span><span class="red">￥47.9</p>
+  </div>
+</div>

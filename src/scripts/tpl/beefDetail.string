@@ -1,0 +1,21 @@
+<div class="beefDetailPage">
+  <header>
+    <div class="back" action-type="tap.back"><i class="yo-ico">&#xe643;</i><span>返回</span></div>
+    <div class="detail">商品详情</div>
+  </header>
+  <section spa-widget="scroll">
+    <div>
+      <img class="img1" src="/demo01/images/beef1.png" />
+      <img class="img2" src="/demo01/images/beef2.png" />
+      <img class="img3" src="/demo01/images/beef3.png" />
+      <img class="img4" src="/demo01/images/beef4.png" />
+      <img class="img5" src="/demo01/images/beef5.png" />
+      <img class="img6" src="/demo01/images/beef6.png" />
+    </div>
+  </section>
+  <footer>
+    <div class="addCart" action-type="go.cart"><i class="yo-ico">&#xf005e;</i><b>￥79.8</b></div>
+    <div class="text">加入购物车</div>
+  </footer>
+
+</div>

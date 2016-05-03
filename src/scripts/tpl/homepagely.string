@@ -1,0 +1,102 @@
+<header class="homePageHeader">
+   <img src="/demo01/images/tit.png"/>
+   <div><span>宝盛北里（西区）</span><span><img src="/demo01/images/tit1.png"/></span></div>
+</header>
+<div spa-widget="scroll">
+ <div>
+ <nav>
+     <ul>
+       <li class="active">周年庆</li>
+       <li>水果</li>
+       <li>食材</li>
+       <li>海鲜</li>
+       <li>饮品</li>
+       <li>零食</li>
+       <li><img src="/demo01/images/nav1.png"/></li>
+     </ul>
+ </nav>
+ <section>
+
+
+
+
+       <!-- <div class="banner"><img src="/demo01/images/banner1.png"/></div> -->
+   <div class="swiper-container swiper-container-horizontal banner" id="bannerContainer" >
+        <div class="swiper-wrapper">
+            <div class="swiper-slide blue-slide swiper-slide-active" >
+                 <img src="/demo01/images/banner1.png"/></div>
+             <div class="swiper-slide red-slide swiper-slide-next" >
+                 <img src="/demo01/images/banner1.png"/></div>
+             <div class="swiper-slide orange-slide">
+                 <img src="/demo01/images/banner1.png"/></div>
+         </div>
+         <div class="swiper-pagination swiper-pagination-bullets"><span class="swiper-pagination-bullet swiper-pagination-bullet-active"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span></div>
+   </div>
+   <div class="product">
+         <div class="part1">
+           <div class="part1-tit"><p><span>—</span><span>一周年·店庆私家精选</span><span>—</span></p></div>
+           <div class="part1-product">
+             <img src="/demo01/images/product1.png"/>
+             <div>
+               <p>拉茨维特法国猪肋排</p>
+               <p>一块纯度99.7%法国猪肋排</p>
+               <p><span>500g</span><span>￥33.9</span></p>
+               <div>加入购物车</div>
+             </div>
+           </div>
+           <div class="part1-product">
+             <img src="/demo01/images/product1.png"/>
+             <div>
+               <p>拉茨维特法国猪肋排</p>
+               <p>一块纯度99.7%法国猪肋排</p>
+               <p><span>500g</span><span>￥33.9</span></p>
+               <div>加入购物车</div>
+             </div>
+           </div>
+         </div>
+         <div class="part1">
+           <div class="part1-tit"><p><span>—</span><span>一周年·特价会员回馈</span><span>—</span></p></div>
+           <div class="part1-product">
+             <img src="/demo01/images/product1.png"/>
+             <div>
+               <p>拉茨维特法国猪肋排</p>
+               <p>一块纯度99.7%法国猪肋排</p>
+               <p><span>500g</span><span>￥33.9</span></p>
+               <div>加入购物车</div>
+             </div>
+           </div>
+           <div class="part1-product">
+             <img src="/demo01/images/product1.png"/>
+             <div>
+               <p>拉茨维特法国猪肋排</p>
+               <p>一块纯度99.7%法国猪肋排</p>
+               <p><span>500g</span><span>￥33.9</span></p>
+               <div>加入购物车</div>
+             </div>
+           </div>
+         </div>
+         <div class="part1">
+           <div class="part1-tit"><p><span>—</span><span>一周年·一年打拼出的实力派</span><span>—</span></p></div>
+           <div class="part1-product">
+             <img src="/demo01/images/product1.png"/>
+             <div>
+               <p>拉茨维特法国猪肋排</p>
+               <p>一块纯度99.7%法国猪肋排</p>
+               <p><span>500g</span><span>￥33.9</span></p>
+               <div>加入购物车</div>
+             </div>
+           </div>
+           <div class="part1-product">
+             <img src="/demo01/images/product1.png"/>
+             <div>
+               <p>拉茨维特法国猪肋排</p>
+               <p>一块纯度99.7%法国猪肋排</p>
+               <p><span>500g</span><span>￥33.9</span></p>
+               <div>加入购物车</div>
+             </div>
+           </div>
+         </div>
+     </div>
+ </section>
+</div>
+</div>
